@@ -24,11 +24,3 @@ In this repository, you will find code examples and explanations for various reg
 * Gradient Boosting Regression
 * Time Series Analysis and Forecasting
 Along with the code, you will also find datasets or data files specific to each topic. These datasets can be used to practice and experiment with the code examples provided.
-
-Please note that this list represents the topics covered up until Regression. Future updates to the repository may include additional topics and more code examples for each topic.
-
-## Contributing
-Contributions to this repository are welcome! If you would like to contribute code examples, suggest improvements, or add new topics, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
-Thank you for your interest in this machine learning repository. We hope you find the code examples and resources provided here helpful for your machine learning practices.
-
